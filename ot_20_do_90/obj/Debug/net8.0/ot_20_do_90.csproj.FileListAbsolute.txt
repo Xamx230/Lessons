@@ -1,0 +1,15 @@
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\bin\Debug\net8.0\ot_20_do_90.exe
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\bin\Debug\net8.0\ot_20_do_90.deps.json
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\bin\Debug\net8.0\ot_20_do_90.runtimeconfig.json
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\bin\Debug\net8.0\ot_20_do_90.dll
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\bin\Debug\net8.0\ot_20_do_90.pdb
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.AssemblyInfoInputs.cache
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.AssemblyInfo.cs
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.csproj.CoreCompileInputs.cache
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.sourcelink.json
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.dll
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\refint\ot_20_do_90.dll
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.pdb
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ot_20_do_90.genruntimeconfig.cache
+C:\Users\gandr\Desktop\C#1\ot_20_do_90\obj\Debug\net8.0\ref\ot_20_do_90.dll

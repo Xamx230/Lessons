@@ -1,0 +1,15 @@
+C:\Users\gandr\Desktop\C#1\чётные_числа\bin\Debug\net8.0\чётные_числа.exe
+C:\Users\gandr\Desktop\C#1\чётные_числа\bin\Debug\net8.0\чётные_числа.deps.json
+C:\Users\gandr\Desktop\C#1\чётные_числа\bin\Debug\net8.0\чётные_числа.runtimeconfig.json
+C:\Users\gandr\Desktop\C#1\чётные_числа\bin\Debug\net8.0\чётные_числа.dll
+C:\Users\gandr\Desktop\C#1\чётные_числа\bin\Debug\net8.0\чётные_числа.pdb
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.AssemblyInfoInputs.cache
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.AssemblyInfo.cs
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.csproj.CoreCompileInputs.cache
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.sourcelink.json
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.dll
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\refint\чётные_числа.dll
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.pdb
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\чётные_числа.genruntimeconfig.cache
+C:\Users\gandr\Desktop\C#1\чётные_числа\obj\Debug\net8.0\ref\чётные_числа.dll
