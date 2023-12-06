@@ -1,0 +1,4 @@
+C:\Users\gandr\Documents\C#1\tgh001\obj\Debug\net8.0\tgh001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gandr\Documents\C#1\tgh001\obj\Debug\net8.0\tgh001.AssemblyInfoInputs.cache
+C:\Users\gandr\Documents\C#1\tgh001\obj\Debug\net8.0\tgh001.AssemblyInfo.cs
+C:\Users\gandr\Documents\C#1\tgh001\obj\Debug\net8.0\tgh001.csproj.CoreCompileInputs.cache

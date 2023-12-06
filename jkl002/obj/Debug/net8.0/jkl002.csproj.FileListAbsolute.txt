@@ -1,0 +1,14 @@
+C:\Users\gandr\Documents\C#1\jkl002\bin\Debug\net8.0\jkl002.exe
+C:\Users\gandr\Documents\C#1\jkl002\bin\Debug\net8.0\jkl002.deps.json
+C:\Users\gandr\Documents\C#1\jkl002\bin\Debug\net8.0\jkl002.runtimeconfig.json
+C:\Users\gandr\Documents\C#1\jkl002\bin\Debug\net8.0\jkl002.dll
+C:\Users\gandr\Documents\C#1\jkl002\bin\Debug\net8.0\jkl002.pdb
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\jkl002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\jkl002.AssemblyInfoInputs.cache
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\jkl002.AssemblyInfo.cs
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\jkl002.csproj.CoreCompileInputs.cache
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\jkl002.dll
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\refint\jkl002.dll
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\jkl002.pdb
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\jkl002.genruntimeconfig.cache
+C:\Users\gandr\Documents\C#1\jkl002\obj\Debug\net8.0\ref\jkl002.dll
