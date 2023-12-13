@@ -1,0 +1,15 @@
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.AssemblyInfoInputs.cache
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.AssemblyInfo.cs
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.csproj.CoreCompileInputs.cache
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.sourcelink.json
+C:\Users\gandr\Desktop\C#1\M_and_N\bin\Debug\net8.0\M_and_N.exe
+C:\Users\gandr\Desktop\C#1\M_and_N\bin\Debug\net8.0\M_and_N.deps.json
+C:\Users\gandr\Desktop\C#1\M_and_N\bin\Debug\net8.0\M_and_N.runtimeconfig.json
+C:\Users\gandr\Desktop\C#1\M_and_N\bin\Debug\net8.0\M_and_N.dll
+C:\Users\gandr\Desktop\C#1\M_and_N\bin\Debug\net8.0\M_and_N.pdb
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.dll
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\refint\M_and_N.dll
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.pdb
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\M_and_N.genruntimeconfig.cache
+C:\Users\gandr\Desktop\C#1\M_and_N\obj\Debug\net8.0\ref\M_and_N.dll
