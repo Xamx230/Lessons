@@ -1,0 +1,15 @@
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.AssemblyInfoInputs.cache
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.AssemblyInfo.cs
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.csproj.CoreCompileInputs.cache
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.sourcelink.json
+C:\Users\gandr\Desktop\C#1\swap_Array\bin\Debug\net8.0\swap_Array.exe
+C:\Users\gandr\Desktop\C#1\swap_Array\bin\Debug\net8.0\swap_Array.deps.json
+C:\Users\gandr\Desktop\C#1\swap_Array\bin\Debug\net8.0\swap_Array.runtimeconfig.json
+C:\Users\gandr\Desktop\C#1\swap_Array\bin\Debug\net8.0\swap_Array.dll
+C:\Users\gandr\Desktop\C#1\swap_Array\bin\Debug\net8.0\swap_Array.pdb
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.dll
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\refint\swap_Array.dll
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.pdb
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\swap_Array.genruntimeconfig.cache
+C:\Users\gandr\Desktop\C#1\swap_Array\obj\Debug\net8.0\ref\swap_Array.dll
